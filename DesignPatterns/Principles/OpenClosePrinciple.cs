@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPatterns
+namespace DesignPatterns.Principles
 {
     public enum Color
     {
@@ -156,7 +156,7 @@ namespace DesignPatterns
         }
     }
 
-    public class OpenClose
+    public class OpenClosePrinciple
     {
         static void Main(string[] args)
         {

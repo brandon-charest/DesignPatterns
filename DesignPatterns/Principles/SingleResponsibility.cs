@@ -1,13 +1,13 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static DesignPatterns.Journal;
+using static DesignPatterns.Principles.Journal;
 
-namespace DesignPatterns
+namespace DesignPatterns.Principles
 {
     public class Journal
     {
